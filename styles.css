@@ -10,3 +10,15 @@ section {
     width: 456px;
     margin: 70px auto;
 }
+.cell {
+    font-family: sans-serif;
+    width: 150px;
+    height: 150px;
+    box-shadow: 0 0 0 1px #333333;
+    border: 1px solid #333333;
+    cursor: pointer;
+    line-height: 100px;
+    font-size: 60px;
+    text-align:middle;
+    background-color: rgba(148, 206, 22, 0.222);
+}
